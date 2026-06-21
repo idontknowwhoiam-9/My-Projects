@@ -1,8 +1,0 @@
-A Corpus Made For Security Researching On Nginx(aka Engine X)
-
-This Code Can Be Used With Mutators Like Radamsa.
-Or You Can Add It To Your Fuzzer(AFL++,Libfuzzer etc.)
-Or Do Manual Fuzzing Instead.
-
-​Disclaimer
-​This project is intended for authorized security research and educational purposes only. Exploiting on unauthorized systems is considered illegal with serious punishment.
