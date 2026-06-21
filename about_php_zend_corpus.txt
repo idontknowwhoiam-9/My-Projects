@@ -10,7 +10,7 @@ Instead Of Relying On Basic, Random Byte Mutations, This Code Focuses On:
 
 Run the binary. It will automatically create a zend_corpus directory and populate it with deterministic seed files, you can use this code to compile:
 
-" gcc -O3 php_corpus_gen.c -o corpus_gen "
+" gcc -O3 php_zend_corpus.c -o corpus_gen "
 
 You can integrate this code to your Coverage-Guided fuzzer, Radamsa or do manual fuzzing instead.
 
